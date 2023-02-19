@@ -10,12 +10,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	 <link rel="stylesheet" href="styles.css">
-	<title>Log in form</title>
+	<title>Авторизация</title>
 </head>
 <body>
 	<form action="" method="post" enctype="multipart/form-data" autocomplete="off">
-		<h2>Login form</h2>
-		<h4>Both fields are <span>required</span></h4>
+		<h2>Форма авторизации</h2>
+		<h4>Оба поля должны быть <span>заполнены</span></h4>
 
 		<label>Логин</label>
 		<input type="text" name="login">
